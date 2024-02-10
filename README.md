@@ -1,3 +1,4 @@
-# W3 School Tutorial
+# W3 School Completed Turorials
 
-## Added W3 Schools Tutorial on Matplotlib
+## Changes
+1. Added Tutorial About Matplot lib
